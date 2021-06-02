@@ -3,6 +3,8 @@
 
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
+# Video: https://onedrive.live.com/?cid=E0DB81563DC405CE&id=E0DB81563DC405CE%21375447&parId=E0DB81563DC405CE%21375445&o=OneUp
+
 ## Your Task
 
 Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
