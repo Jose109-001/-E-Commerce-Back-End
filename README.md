@@ -3,7 +3,7 @@
 
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
-# Video: https://onedrive.live.com/?cid=E0DB81563DC405CE&id=E0DB81563DC405CE%21375447&parId=E0DB81563DC405CE%21375445&o=OneUp
+See Video: https://onedrive.live.com/?cid=E0DB81563DC405CE&id=E0DB81563DC405CE%21375447&parId=E0DB81563DC405CE%21375445&o=OneUp
 
 ## Your Task
 
