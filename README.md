@@ -6,7 +6,6 @@
 
 See Video: https://onedrive.live.com/?cid=E0DB81563DC405CE&id=E0DB81563DC405CE%21375447&parId=E0DB81563DC405CE%21375445&o=OneUp
 
-See Video: https://1drv.ms/v/s!As4FxD1WgdvglvQuKbwY3Blw4RUwJA?e=15Lwd2
 
 ## Your Task
 
