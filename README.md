@@ -4,10 +4,7 @@
 # 13 Object-Relational Mapping (ORM):
 # E-Commerce Back End
 
-
-
 See Video: https://drive.google.com/file/d/14hlNok2QEY35bqo_9oHCqpf8iMoxuFFY/view?usp=sharing
-
 
 ## Your Task
 
